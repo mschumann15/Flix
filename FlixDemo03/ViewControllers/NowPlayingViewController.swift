@@ -9,7 +9,6 @@
 import UIKit
 import AlamofireImage
 
-
 class NowPlayingViewController: UIViewController, UITableViewDataSource {
 
     @IBOutlet weak var tableView: UITableView!
